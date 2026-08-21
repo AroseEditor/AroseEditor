@@ -13,15 +13,10 @@
 
 Mostly backend and desktop software — file converters, launchers, and tooling that has to actually run on someone's machine. I care about the parts users never see: correctness, startup time, not leaking memory.
 
-**[Vesper Launcher](https://github.com/AroseEditor/Vesper-Launcher)** — desktop launcher in C#.
+**[Vesper Launcher](https://github.com/AroseEditor/Vesper-Launcher)** — desktop minecraft launcher in C#.
 
 **[Vesper Convertor](https://github.com/AroseEditor/Vesper-Convertor)** — file conversion for the Vesper ecosystem.
 
-**[PSD Image Convertor](https://github.com/AroseEditor/PSD-Image-Convertor)** — PSD parsing and export, TypeScript.
-
-**[Better PDF Editor](https://github.com/AroseEditor/Better-PDF-Editor)** — PDF reader written in Rust.
-
-**[Backuper](https://github.com/AroseEditor/Backuper)** — backup tooling in Kotlin.
 
 Currently contributing to **[Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics)**, a Spicetify extension — mostly lifecycle and event-handling fixes.
 
