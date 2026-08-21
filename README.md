@@ -1,6 +1,6 @@
 <h1 align="center">AroseEditor</h1>
 
-<p align="center">Software engineer. Backend systems, desktop apps, and the web.</p>
+<p align="center">Backend engineer. Desktop apps, services, and tooling.</p>
 
 <p align="center">
   <a href="https://github.com/AroseEditor?tab=followers"><img src="https://img.shields.io/github/followers/AroseEditor?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=000000&labelColor=000000" alt="Followers"></a>
@@ -25,7 +25,7 @@ Mostly backend and desktop software — file converters, launchers, and tooling 
 
 Currently contributing to **[Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics)**, a Spicetify extension — mostly lifecycle and event-handling fixes.
 
-Doing more frontend lately. Getting better at it.
+Backend is where I'm strongest — services, file formats, and anything that has to stay correct under load. Frontend is my weak spot. I'm working on it.
 
 ---
 
