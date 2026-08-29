@@ -19,7 +19,6 @@ Mostly backend and desktop software — file converters, launchers, and tooling 
 
 **[Vesper Convertor](https://github.com/AroseEditor/Vesper-Convertor)** — file conversion for the Vesper ecosystem.
 
-Currently contributing to **[Spicy Lyrics](https://github.com/Spikerko/spicy-lyrics)**, a Spicetify extension — mostly lifecycle and event-handling fixes.
 
 Backend is where I'm strongest — services, file formats, and anything that has to stay correct under load. Frontend is my weak spot. I'm working on it.
 
