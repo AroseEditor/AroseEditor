@@ -13,7 +13,7 @@
 
 Mostly backend and desktop software — file converters, launchers, and tooling that has to actually run on someone's machine. I care about the parts users never see: correctness, startup time, not leaking memory.
 
-**[hammer](https://github.com/AroseEditor/hammer)** — an HTTP load generator in C++20. No libcurl, no boost, no HTTP library: the socket handling, the protocol parsing, and the statistics are all mine. It's built around measuring tail latency correctly, which most load generators get wrong — a closed loop never issues the requests that would have hit a stall, so the samples that mattered never make it into the histogram. Still under construction, and deliberately the hardest thing I've taken on so far.
+**[hammer](https://github.com/AroseEditor/hammer)** — an HTTP load generator in C++20. No libcurl , It's built around measuring tail latency correctly, which most load generators get wrong — a closed loop never issues the requests that would have hit a stall, so the samples that mattered never make it into the histogram.
 
 **[Vesper Launcher](https://github.com/AroseEditor/Vesper-Launcher)** — desktop Minecraft launcher in C#.
 
