@@ -13,7 +13,7 @@
 
 Mostly backend and desktop software — file converters, launchers, and tooling that has to actually run on someone's machine. I care about the parts users never see: correctness, startup time, not leaking memory.
 
-**[Vesper Movies](https://github.com/AroseEditor/Vesper-Movies)** - an application to easily download and stream movies. MovieBox-Tui was used as a base but many more providers have been added. It has availability of many new movies, it is a GUI application for Windows, Linux & Android. Android means your phones , android TVs support.
+**[Vesper Movies](https://github.com/AroseEditor/Vesper-Movies)** - An application to easily download and stream movies. MovieBox-Tui was used as a base but many more providers have been added. It has availability of many new movies, it is a GUI application for Windows, Linux & Android. Android means your phones , android TVs support.
 
 **[hammer](https://github.com/AroseEditor/hammer)** — an HTTP load generator in C++20. No libcurl , It's built around measuring tail latency correctly, which most load generators get wrong — a closed loop never issues the requests that would have hit a stall, so the samples that mattered never make it into the histogram.
 
