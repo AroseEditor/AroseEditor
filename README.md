@@ -15,11 +15,11 @@ Mostly backend and desktop software — file converters, launchers, and tooling 
 
 **[Vesper Movies](https://github.com/AroseEditor/Vesper-Movies)** - An application to easily download and stream movies. MovieBox-Tui was used as a base but many more providers have been added. It has availability of many new movies, it is a GUI application for Windows, Linux & Android. Android means your phones , android TVs support.
 
-**[hammer](https://github.com/AroseEditor/hammer)** — an HTTP load generator in C++20. No libcurl , It's built around measuring tail latency correctly, which most load generators get wrong — a closed loop never issues the requests that would have hit a stall, so the samples that mattered never make it into the histogram.
+**[hammer](https://github.com/AroseEditor/hammer)** — An HTTP load generator in C++20. No libcurl , It's built around measuring tail latency correctly, which most load generators get wrong — a closed loop never issues the requests that would have hit a stall, so the samples that mattered never make it into the histogram.
 
-**[Vesper Launcher](https://github.com/AroseEditor/Vesper-Launcher)** — desktop Minecraft launcher in C#.
+**[Vesper Launcher](https://github.com/AroseEditor/Vesper-Launcher)** — Easy and fast desktop Minecraft launcher in C#.
 
-**[Vesper Convertor](https://github.com/AroseEditor/Vesper-Convertor)** — file conversion for the Vesper ecosystem.
+**[Vesper Convertor](https://github.com/AroseEditor/Vesper-Convertor)** — File conversion for the Vesper ecosystem. Not maintained.
 
 
 
@@ -37,14 +37,16 @@ Feel free to check it out.
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+
 </p>
 <p>
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#">
+
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
